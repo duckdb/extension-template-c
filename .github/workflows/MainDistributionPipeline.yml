@@ -20,4 +20,3 @@ jobs:
       ci_tools_version: main
       extension_name: capi_quack
       extra_toolchains: python3
-      exclude_archs: 'wasm_mvp;wasm_eh;wasm_threads'
