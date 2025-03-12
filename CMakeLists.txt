@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-option(DUCKDB_WASM_EXTENSIONS "Whether compiling for Wasm target" OFF)
+option(DUCKDB_WASM_EXTENSION "Whether compiling for Wasm target" OFF)
 
 ###
 # Configuration
